@@ -1,0 +1,9 @@
+[project]
+name = "freecodecamp-coding-challenge"
+version = "0.1.0"
+description = "FreecodeCamp Coding Challenges"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest>=8.4.2",
+]
