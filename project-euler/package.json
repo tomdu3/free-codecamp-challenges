@@ -1,0 +1,22 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": " Project Euler from FreeCodeCamp",
+  "keywords": [
+    "project",
+    "euler",
+    "challenges",
+    "js"
+  ],
+  "license": "MIT",
+  "author": "Tomislav Dukez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^30.1.3"
+  }
+}
