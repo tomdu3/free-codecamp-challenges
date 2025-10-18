@@ -2,13 +2,6 @@ def sock_pairs(pairs, cycles):
 
     socks = pairs * 2
 
-    wash = {
-        2: -1,
-        3: 1,
-        4: -1,
-        10: 2,
-    }
-
     for cycle in range(1,cycles + 1):
         # Losing a sock every 2 cycles
         if cycle % 2 == 0:
