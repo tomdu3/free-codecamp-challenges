@@ -13,7 +13,10 @@ for instruction in instructions:
         move -= number
 
     temp_move = (current_position + move) % len(names)
-    current_position = temp_move
+    names[current_position], names[temp_move] = (
+        names[temp_move],
+        names[current_position],
+    )
 
 
 print(names[current_position])
