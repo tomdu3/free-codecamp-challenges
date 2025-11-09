@@ -5,5 +5,6 @@ description = "FreecodeCamp Coding Challenges"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "numpy>=2.3.4",
     "pytest>=8.4.2",
 ]
