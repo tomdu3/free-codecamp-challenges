@@ -1,5 +1,5 @@
 import unittest
-from longest_word import longest_word
+from longest_word2 import longest_word
 
 class TestLongestWord(unittest.TestCase):
     def test_quick_red_fox(self):
