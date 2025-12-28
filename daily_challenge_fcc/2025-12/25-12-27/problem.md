@@ -1,4 +1,4 @@
-<!-- # Rock, Paper, Scissors -->
+# Rock, Paper, Scissors
 
 Given two strings, the first representing Player 1 and the second representing Player 2, determine the winner of a match of Rock, Paper, Scissors.
 
