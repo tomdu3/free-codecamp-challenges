@@ -17,6 +17,11 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-08-19: Sum of Squares](./2025-08/25-08-19/problem.md)
 - [25-08-20: 3 Strikes](./2025-08/25-08-20/problem.md)
 - [25-08-21: Mile Pace](./2025-08/25-08-21/problem.md)
+- [25-08-22: Message Decoder](./2025-08/25-08-22/problem.md)
+- [25-08-23: Unnatural Prime](./2025-08/25-08-23/problem.md)
+- [25-08-24: Character Battle](./2025-08/25-08-24/problem.md)
+- [25-08-25: Camel Case](./2025-08/25-08-25/problem.md)
+- [25-08-26: Reverse Parenthesis](./2025-08/25-08-26/problem.md)
 
 ## September 2025
 
@@ -24,6 +29,8 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-09-02: RGB to Hex](./2025-09/25-09-02/problem.md)
 - [25-09-03: Pangram](./2025-09/25-09-03/problem.md)
 - [25-09-04: Vowel Repeater](./2025-09/25-09-04/problem.md)
+- [25-09-05: IPv4 Validator](./2025-09/25-09-05/problem.md)
+- [25-09-14: Word Frequency](./2025-09/25-09-14/problem.md)
 - [25-09-15: Thermostat Adjuster](./2025-09/25-09-15/problem.md)
 - [25-09-16: Sentence Capitalizer](./2025-09/25-09-16/problem.md)
 - [25-09-17: Slug Generator](./2025-09/25-09-17/problem.md)
@@ -130,3 +137,4 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-12-25: Snowflake Generator](./2025-12/25-12-25/problem.md)
 - [25-12-26: Sum of Divisors](./2025-12/25-12-26/problem.md)
 - [25-12-27: Rock, Paper, Scissors](./2025-12/25-12-27/problem.md)
+- [25-12-28: Screaming Snake Case](./2025-12/25-12-28/problem.md)
