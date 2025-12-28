@@ -24,7 +24,7 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-09-02: RGB to Hex](./2025-09/25-09-02/problem.md)
 - [25-09-03: Pangram](./2025-09/25-09-03/problem.md)
 - [25-09-04: Vowel Repeater](./2025-09/25-09-04/problem.md)
-- [25-09-15: Sentence Capitalizer](./2025-09/25-09-15/problem.md)
+- [25-09-15: Thermostat Adjuster](./2025-09/25-09-15/problem.md)
 - [25-09-16: Sentence Capitalizer](./2025-09/25-09-16/problem.md)
 - [25-09-17: Slug Generator](./2025-09/25-09-17/problem.md)
 - [25-09-18: Fill The Tank](./2025-09/25-09-18/problem.md)
@@ -129,3 +129,4 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-12-24: Markdown Image Parser](./2025-12/25-12-24/problem.md)
 - [25-12-25: Snowflake Generator](./2025-12/25-12-25/problem.md)
 - [25-12-26: Sum of Divisors](./2025-12/25-12-26/problem.md)
+- [25-12-27: Rock, Paper, Scissors](./2025-12/25-12-27/problem.md)
