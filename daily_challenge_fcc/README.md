@@ -138,3 +138,4 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [25-12-26: Sum of Divisors](./2025-12/25-12-26/problem.md)
 - [25-12-27: Rock, Paper, Scissors](./2025-12/25-12-27/problem.md)
 - [25-12-28: Screaming Snake Case](./2025-12/25-12-28/problem.md)
+- [25-12-29: Takeoff Fuel](./2025-12/25-12-29/problem.md)
