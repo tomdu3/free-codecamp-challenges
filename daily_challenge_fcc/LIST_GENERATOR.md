@@ -23,11 +23,13 @@ find . -name "problem.md" -exec grep -H "^# " {} \; | sort > problems_list.txt
 ### Output Format
 The resulting `problems_list.txt` contains lines in the format:
 ```
-./YYYY-MM/YY-MM-DD/problem.md:# Title
+./YYYY/YYYY-MM/YY-MM-DD/problem.md:# Title
 ```
+(or potentially `./YYYY-MM/...` for older entries).
+
 Example:
 ```
-./2025-08/25-08-11/problem.md:# Vowel Balance
+./2025/2025-08/25-08-11/problem.md:# Vowel Balance
 ```
 
 ## 2. Markdown Generation
@@ -38,6 +40,7 @@ A Python script `generate_readme.py` was used to parse `problems_list.txt` and g
 1. **Parsing**: 
    - Reads `problems_list.txt`.
    - Uses Regular Expressions to extract:
+     - Optional Year Directory
      - Month (`YYYY-MM`)
      - Date (`YY-MM-DD`)
      - Title (Problem Name)
