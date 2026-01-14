@@ -9,22 +9,30 @@ with open('problems_list.txt', 'r') as f:
 
 problems = []
 
-# Regex to parse the line: ./2025-08/25-08-11/problem.md:# Vowel Balance
-pattern = re.compile(r'\./(\d{4}-\d{2})/(\d{2}-\d{2}-\d{2})/problem\.md:# (.+)')
+# Regex to parse the line: ./2025/2025-08/25-08-11/problem.md:# Vowel Balance or ./2025-08/25-08-11/problem.md:# Vowel Balance
+# Matches optional year group (group 1), month (group 2), date (group 3), title (group 4)
+pattern = re.compile(r'\./(?:(\d{4})/)?(\d{4}-\d{2})/(\d{2}-\d{2}-\d{2})/problem\.md:# (.+)')
 
 for line in lines:
     line = line.strip()
     match = pattern.match(line)
     if match:
-        month_str = match.group(1)
-        date_str = match.group(2) 
-        title = match.group(3)
+        year_dir = match.group(1)
+        month_str = match.group(2)
+        date_str = match.group(3) 
+        title = match.group(4)
         
+        # Construct path based on whether year_dir exists
+        if year_dir:
+            file_path = f'./{year_dir}/{month_str}/{date_str}/problem.md'
+        else:
+            file_path = f'./{month_str}/{date_str}/problem.md'
+            
         problems.append({
             'month': month_str,
             'date': date_str,
             'title': title,
-            'path': f'./{month_str}/{date_str}/problem.md'
+            'path': file_path
         })
 
 # Group by month
