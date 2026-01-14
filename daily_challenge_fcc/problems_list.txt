@@ -1,111 +1,144 @@
-./2025-08/25-08-11/problem.md:# Vowel Balance
-./2025-08/25-08-12/problem.md:# Base Check
-./2025-08/25-08-13/problem.md:# Fibonacci Sequence
-./2025-08/25-08-14/problem.md:# S P A C E J A M
-./2025-08/25-08-15/problem.md:# Jbelmud Text
-./2025-08/25-08-16/problem.md:# Anagram Checker
-./2025-08/25-08-17/problem.md:# Targeted Sum
-./2025-08/25-08-18/problem.md:# Factorializer
-./2025-08/25-08-19/problem.md:# Sum of Squares
-./2025-08/25-08-20/problem.md:# 3 Strikes
-./2025-08/25-08-21/problem.md:# Mile Pace
-./2025-09/25-09-01/problem.md:# Tribonacci Sequence
-./2025-09/25-09-02/problem.md:# RGB to Hex
-./2025-09/25-09-03/problem.md:# Pangram
-./2025-09/25-09-04/problem.md:# Vowel Repeater
-./2025-09/25-09-15/problem.md:# Sentence Capitalizer
-./2025-09/25-09-16/problem.md:# Sentence Capitalizer
-./2025-09/25-09-17/problem.md:# Slug Generator
-./2025-09/25-09-18/problem.md:# Fill The Tank
-./2025-09/25-09-19/problem.md:# Photo Storage
-./2025-09/25-09-20/problem.md:# File Storage
-./2025-09/25-09-21/problem.md:# Video Storage
-./2025-09/25-09-22/problem.md:# Digits vs Letters
-./2025-09/25-09-23/problem.md:# String Mirror
-./2025-09/25-09-24/problem.md:# Perfect Square
-./2025-09/25-09-26/problem.md:# Caught Speeding
-./2025-09/25-09-27/problem.md:# Spam Detector
-./2025-09/25-09-28/problem.md:# CSV Header Parser
-./2025-09/25-09-29/problem.md:# Longest Word
-./2025-09/25-09-30/problem.md:# Phone Number Formatter
-./2025-10/25-10-01/problem.md:# Binary to Decimal
-./2025-10/25-10-02/problem.md:# Decimal to Binary
-./2025-10/25-10-03/problem.md:# P@ssw0rd Str3ngth!
-./2025-10/25-10-04/problem.md:# Space Week Day 1: Stellar Classification
-./2025-10/25-10-05/problem.md:# Space Week Day 2: Exoplanet Search
-./2025-10/25-10-06/problem.md:# Space Week Day 3: Phone Home
-./2025-10/25-10-07/problem.md:# Space Week Day 4: Landing Spot
-./2025-10/25-10-08/problem.md:# Space Week Day 5: Goldilocks Zone
-./2025-10/25-10-09/problem.md:# Space Week Day 6: Moon Phase
-./2025-10/25-10-10/problem.md:# Space Week Day 7: Launch Fuel
-./2025-10/25-10-11/problem.md:# Hex to Decimal
-./2025-10/25-10-12/problem.md:# Battle of Words
-./2025-10/25-10-14/problem.md:# String Count
-./2025-10/25-10-15/problem.md:# HTML Tag Stripper
-./2025-10/25-10-16/problem.md:# Email Validator
-./2025-10/25-10-17/problem.md:# Credit Card Masker
-./2025-10/25-10-18/problem.md:# Missing Socks
-./2025-10/25-10-19/problem.md:# HTML Attribute Extractor
-./2025-10/25-10-20/problem.md:# Tip Calculator
-./2025-10/25-10-21/problem.md:# Thermostat Adjuster 2
-./2025-10/25-10-22/problem.md:# Speak Wisely, You Must
-./2025-10/25-10-23/problem.md:# Favorite Songs
-./2025-10/25-10-24/problem.md:# Hidden Treasure
-./2025-10/25-10-25/problem.md:# Complementary DNA
-./2025-10/25-10-26/problem.md:# Duration Formatter
-./2025-10/25-10-27/problem.md:# Integer Sequence
-./2025-10/25-10-28/problem.md:# Navigator
-./2025-10/25-10-29/problem.md:# Email Sorter
-./2025-10/25-10-30/problem.md:# Nth Prime
-./2025-10/25-10-31/problem.md:# SpOoKy~CaSe
-./2025-11/25-11-01/problem.md:# Signature Validation
-./2025-11/25-11-02/problem.md:# Infected
-./2025-11/25-11-03/problem.md:# Word Counter
-./2025-11/25-11-04/problem.md:# Image Search
-./2025-11/25-11-05/problem.md:# Matrix Builder
-./2025-11/25-11-06/problem.md:# Weekday Finder
-./2025-11/25-11-07/problem.md:# Counting Cards
-./2025-11/25-11-08/problem.md:# Character Limit
-./2025-11/25-11-09/problem.md:# Word Search
-./2025-11/25-11-10/problem.md:# Extension Extractor
-./2025-11/25-11-11/problem.md:# Vowels and Consonants
-./2025-11/25-11-12/problem.md:# Email Signature Generator
-./2025-11/25-11-13/problem.md:# Array Shift
-./2025-11/25-11-14/problem.md:# Is It the Weekend?
-./2025-11/25-11-15/problem.md:# GCD
-./2025-11/25-11-16/problem.md:# Rectangle Count
-./2025-11/25-11-17/problem.md:# Fingerprint Test
-./2025-11/25-11-18/problem.md:# 100 Characters
-./2025-11/25-11-19/problem.md:# Markdown Heading Converter
-./2025-11/25-11-20/problem.md:# Longest Word
-./2025-11/25-11-21/problem.md:# LCM
-./2025-11/25-11-22/problem.md:# Recipe Scaler
-./2025-11/25-11-23/problem.md:# Character Count
-./2025-11/25-11-24/problem.md:# Message Validator
-./2025-11/25-11-25/problem.md:# FizzBuzz
-./2025-11/25-11-26/problem.md:# BuzzFizz
-./2025-11/25-11-27/problem.md:# What's My Age Again?
-./2025-11/25-11-28/problem.md:# Word Guesser
-./2025-11/25-11-29/problem.md:# Ball Trajectory
-./2025-11/25-11-30/problem.md:# AI Detector
-./2025-12/25-12-01/problem.md:# Miles to Kilometers
-./2025-12/25-12-02/problem.md:# Camel to Snake
-./2025-12/25-12-03/problem.md:# Markdown Ordered List Item Converter
-./2025-12/25-12-04/problem.md:# Permutation Count
-./2025-12/25-12-05/problem.md:# Symmetric Difference
-./2025-12/25-12-06/problem.md:# Date Formatter
-./2025-12/25-12-07/problem.md:# String Compression
-./2025-12/25-12-08/problem.md:# Pounds to Kilograms
-./2025-12/25-12-10/problem.md:# Markdown Bold Parser
-./2025-12/25-12-11/problem.md:# Roman Numeral Builder
-./2025-12/25-12-13/problem.md:# Game of Life
-./2025-12/25-12-14/problem.md:# Capitalize It
-./2025-12/25-12-15/problem.md:# Speed Check
-./2025-12/25-12-19/problem.md:# Pairwise
-./2025-12/25-12-20/problem.md:# Purge Most Frequent
-./2025-12/25-12-21/problem.md:# Daylight Hours
-./2025-12/25-12-22/problem.md:# Traveling Shopper
-./2025-12/25-12-23/problem.md:# Re: Fwd: Fw: Count
-./2025-12/25-12-24/problem.md:# Markdown Image Parser
-./2025-12/25-12-25/problem.md:# Snowflake Generator
-./2025-12/25-12-26/problem.md:# Sum of Divisors
+./2025/2025-08/25-08-11/problem.md:# Vowel Balance
+./2025/2025-08/25-08-12/problem.md:# Base Check
+./2025/2025-08/25-08-13/problem.md:# Fibonacci Sequence
+./2025/2025-08/25-08-14/problem.md:# S P A C E J A M
+./2025/2025-08/25-08-15/problem.md:# Jbelmud Text
+./2025/2025-08/25-08-16/problem.md:# Anagram Checker
+./2025/2025-08/25-08-17/problem.md:# Targeted Sum
+./2025/2025-08/25-08-18/problem.md:# Factorializer
+./2025/2025-08/25-08-19/problem.md:# Sum of Squares
+./2025/2025-08/25-08-20/problem.md:# 3 Strikes
+./2025/2025-08/25-08-21/problem.md:# Mile Pace
+./2025/2025-08/25-08-22/problem.md:# Message Decoder
+./2025/2025-08/25-08-23/problem.md:# Unnatural Prime
+./2025/2025-08/25-08-24/problem.md:# Character Battle
+./2025/2025-08/25-08-25/problem.md:# camelCase
+./2025/2025-08/25-08-26/problem.md:# Reverse Parenthesis
+./2025/2025-08/25-08-28/problem.md:# Second Best
+./2025/2025-08/25-08-29/problem.md:# Candlelight
+./2025/2025-08/25-08-30/problem.md:# Array Duplicates
+./2025/2025-08/25-08-31/problem.md:# Hex Generator
+./2025/2025-09/25-09-01/problem.md:# Tribonacci Sequence
+./2025/2025-09/25-09-02/problem.md:# RGB to Hex
+./2025/2025-09/25-09-03/problem.md:# Pangram
+./2025/2025-09/25-09-04/problem.md:# Vowel Repeater
+./2025/2025-09/25-09-08/problem.md:# Acronym Builder
+./2025/2025-09/25-09-10/problem.md:# Array Diff
+./2025/2025-09/25-09-11/problem.md:# Reverse Sentence
+./2025/2025-09/25-09-12/problem.md:# Screen Time
+./2025/2025-09/25-09-13/problem.md:# Missing Numbers
+./2025/2025-09/25-09-15/problem.md:# Thermostat Adjuster
+./2025/2025-09/25-09-16/problem.md:# Sentence Capitalizer
+./2025/2025-09/25-09-17/problem.md:# Slug Generator
+./2025/2025-09/25-09-18/problem.md:# Fill The Tank
+./2025/2025-09/25-09-19/problem.md:# Photo Storage
+./2025/2025-09/25-09-20/problem.md:# File Storage
+./2025/2025-09/25-09-21/problem.md:# Video Storage
+./2025/2025-09/25-09-22/problem.md:# Digits vs Letters
+./2025/2025-09/25-09-23/problem.md:# String Mirror
+./2025/2025-09/25-09-24/problem.md:# Perfect Square
+./2025/2025-09/25-09-26/problem.md:# Caught Speeding
+./2025/2025-09/25-09-27/problem.md:# Spam Detector
+./2025/2025-09/25-09-28/problem.md:# CSV Header Parser
+./2025/2025-09/25-09-29/problem.md:# Longest Word
+./2025/2025-09/25-09-30/problem.md:# Phone Number Formatter
+./2025/2025-10/25-10-01/problem.md:# Binary to Decimal
+./2025/2025-10/25-10-02/problem.md:# Decimal to Binary
+./2025/2025-10/25-10-03/problem.md:# P@ssw0rd Str3ngth!
+./2025/2025-10/25-10-04/problem.md:# Space Week Day 1: Stellar Classification
+./2025/2025-10/25-10-05/problem.md:# Space Week Day 2: Exoplanet Search
+./2025/2025-10/25-10-06/problem.md:# Space Week Day 3: Phone Home
+./2025/2025-10/25-10-07/problem.md:# Space Week Day 4: Landing Spot
+./2025/2025-10/25-10-08/problem.md:# Space Week Day 5: Goldilocks Zone
+./2025/2025-10/25-10-09/problem.md:# Space Week Day 6: Moon Phase
+./2025/2025-10/25-10-10/problem.md:# Space Week Day 7: Launch Fuel
+./2025/2025-10/25-10-11/problem.md:# Hex to Decimal
+./2025/2025-10/25-10-12/problem.md:# Battle of Words
+./2025/2025-10/25-10-14/problem.md:# String Count
+./2025/2025-10/25-10-15/problem.md:# HTML Tag Stripper
+./2025/2025-10/25-10-16/problem.md:# Email Validator
+./2025/2025-10/25-10-17/problem.md:# Credit Card Masker
+./2025/2025-10/25-10-18/problem.md:# Missing Socks
+./2025/2025-10/25-10-19/problem.md:# HTML Attribute Extractor
+./2025/2025-10/25-10-20/problem.md:# Tip Calculator
+./2025/2025-10/25-10-21/problem.md:# Thermostat Adjuster 2
+./2025/2025-10/25-10-22/problem.md:# Speak Wisely, You Must
+./2025/2025-10/25-10-23/problem.md:# Favorite Songs
+./2025/2025-10/25-10-24/problem.md:# Hidden Treasure
+./2025/2025-10/25-10-25/problem.md:# Complementary DNA
+./2025/2025-10/25-10-26/problem.md:# Duration Formatter
+./2025/2025-10/25-10-27/problem.md:# Integer Sequence
+./2025/2025-10/25-10-28/problem.md:# Navigator
+./2025/2025-10/25-10-29/problem.md:# Email Sorter
+./2025/2025-10/25-10-30/problem.md:# Nth Prime
+./2025/2025-10/25-10-31/problem.md:# SpOoKy~CaSe
+./2025/2025-11/25-11-01/problem.md:# Signature Validation
+./2025/2025-11/25-11-02/problem.md:# Infected
+./2025/2025-11/25-11-03/problem.md:# Word Counter
+./2025/2025-11/25-11-04/problem.md:# Image Search
+./2025/2025-11/25-11-05/problem.md:# Matrix Builder
+./2025/2025-11/25-11-06/problem.md:# Weekday Finder
+./2025/2025-11/25-11-07/problem.md:# Counting Cards
+./2025/2025-11/25-11-08/problem.md:# Character Limit
+./2025/2025-11/25-11-09/problem.md:# Word Search
+./2025/2025-11/25-11-10/problem.md:# Extension Extractor
+./2025/2025-11/25-11-11/problem.md:# Vowels and Consonants
+./2025/2025-11/25-11-12/problem.md:# Email Signature Generator
+./2025/2025-11/25-11-13/problem.md:# Array Shift
+./2025/2025-11/25-11-14/problem.md:# Is It the Weekend?
+./2025/2025-11/25-11-15/problem.md:# GCD
+./2025/2025-11/25-11-16/problem.md:# Rectangle Count
+./2025/2025-11/25-11-17/problem.md:# Fingerprint Test
+./2025/2025-11/25-11-18/problem.md:# 100 Characters
+./2025/2025-11/25-11-19/problem.md:# Markdown Heading Converter
+./2025/2025-11/25-11-20/problem.md:# Longest Word
+./2025/2025-11/25-11-21/problem.md:# LCM
+./2025/2025-11/25-11-22/problem.md:# Recipe Scaler
+./2025/2025-11/25-11-23/problem.md:# Character Count
+./2025/2025-11/25-11-24/problem.md:# Message Validator
+./2025/2025-11/25-11-25/problem.md:# FizzBuzz
+./2025/2025-11/25-11-26/problem.md:# BuzzFizz
+./2025/2025-11/25-11-27/problem.md:# What's My Age Again?
+./2025/2025-11/25-11-28/problem.md:# Word Guesser
+./2025/2025-11/25-11-29/problem.md:# Ball Trajectory
+./2025/2025-11/25-11-30/problem.md:# AI Detector
+./2025/2025-12/25-12-01/problem.md:# Miles to Kilometers
+./2025/2025-12/25-12-02/problem.md:# Camel to Snake
+./2025/2025-12/25-12-03/problem.md:# Markdown Ordered List Item Converter
+./2025/2025-12/25-12-04/problem.md:# Permutation Count
+./2025/2025-12/25-12-05/problem.md:# Symmetric Difference
+./2025/2025-12/25-12-06/problem.md:# Date Formatter
+./2025/2025-12/25-12-07/problem.md:# String Compression
+./2025/2025-12/25-12-08/problem.md:# Pounds to Kilograms
+./2025/2025-12/25-12-09/problem.md:# Most Frequent
+./2025/2025-12/25-12-10/problem.md:# Markdown Bold Parser
+./2025/2025-12/25-12-11/problem.md:# Roman Numeral Builder
+./2025/2025-12/25-12-13/problem.md:# Game of Life
+./2025/2025-12/25-12-14/problem.md:# Capitalize It
+./2025/2025-12/25-12-15/problem.md:# Speed Check
+./2025/2025-12/25-12-19/problem.md:# Pairwise
+./2025/2025-12/25-12-20/problem.md:# Purge Most Frequent
+./2025/2025-12/25-12-21/problem.md:# Daylight Hours
+./2025/2025-12/25-12-22/problem.md:# Traveling Shopper
+./2025/2025-12/25-12-23/problem.md:# Re: Fwd: Fw: Count
+./2025/2025-12/25-12-24/problem.md:# Markdown Image Parser
+./2025/2025-12/25-12-25/problem.md:# Snowflake Generator
+./2025/2025-12/25-12-26/problem.md:# Sum of Divisors
+./2025/2025-12/25-12-27/problem.md:# Rock, Paper, Scissors
+./2025/2025-12/25-12-28/problem.md:# SCREAMING_SNAKE_CASE
+./2025/2025-12/25-12-30/problem.md:# Sum the String
+./2025/2025-12/25-12-31/problem.md:# Markdown Italic Parser
+./2026/2026-01/26-01-01/problem.md:# Resolution Streak
+./2026/2026-01/26-01-02/problem.md:# Nth Fibonacci Number
+./2026/2026-01/26-01-03/problem.md:# Left-Handed Seat at the Table
+./2026/2026-01/26-01-04/problem.md:# Leap Year Calculator
+./2026/2026-01/26-01-05/problem.md:# Tire Pressure
+./2026/2026-01/26-01-06/problem.md:# vOwElcAsE
+./2026/2026-01/26-01-07/problem.md:# Markdown Unordered List Parser
+./2026/2026-01/26-01-08/problem.md:# Sorted Array?
+./2026/2026-01/26-01-09/problem.md:# Circular Prime
+./2026/2026-01/26-01-10/problem.md:# Tic-Tac-Toe
+./2026/2026-01/26-01-11/problem.md:# Par for the Hole
+./2026/2026-01/26-01-12/problem.md:# Plant the Crop
+./2026/2026-01/26-01-13/problem.md:# Odd or Even?
+./2026/2026-01/26-01-14/problem.md:# Markdown Link Parser
