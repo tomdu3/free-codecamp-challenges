@@ -176,4 +176,6 @@ This repository contains my solutions to daily FreeCodeCamp challenges.
 - [26-01-26: FizzBuzz Mini](./2026/2026-01/26-01-26/problem.md)
 - [26-01-27: Odd or Even Day](./2026/2026-01/26-01-27/problem.md)
 - [26-01-28: Flatten the Array](./2026/2026-01/26-01-28/problem.md)
-
+- [26-01-29: Letters-Numbers](./2026/2026-01/26-01-29/problem.md)
+- [26-01-30: Valid Pawn Moves](./2026/2026-01/26-01-30/problem.md)
+- [26-01-31: Zodiac Finder](./2026/2026-01/26-01-31/problem.md)
