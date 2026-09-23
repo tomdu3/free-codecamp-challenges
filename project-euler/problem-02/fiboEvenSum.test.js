@@ -1,13 +1,3 @@
-// Passed:1. fiboEvenSum(10) should return a number.
-// Passed:2. Your function should return an even value.
-// Passed:3. Your function should sum the even-valued Fibonacci numbers: fiboEvenSum(8) should return 10.
-// Passed:4. fiboEvenSum(10) should return 10.
-// Passed:5. fiboEvenSum(34) should return 44.
-// Passed:6. fiboEvenSum(60) should return 44.
-// Passed:7. fiboEvenSum(1000) should return 798.
-// Passed:8. fiboEvenSum(100000) should return 60696.
-// Passed:9. fiboEvenSum(4000000) should return 4613732.
-
 const fiboEvenSum = require("./fiboEvenSum");
 
 describe("fiboEvenSum", () => {
